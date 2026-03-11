@@ -47,5 +47,5 @@ Busco dominar a arte de projetar sistemas que sobrevivam ao tempo. Meus estudos 
 
 Estou sempre aberto a propostas de projetos e conexões sobre tecnologia e gestão.
 
-<a href="SEU_LINK_DO_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:SEU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/jairo-rafael-carvalho-lessa-8623b7186" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="jairo.rafaelcarvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
