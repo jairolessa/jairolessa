@@ -9,18 +9,18 @@ Sou um profissional em transição da Administração Pública para Sistemas de 
 ## 🛠️ Arsenal Tecnológico
 
 ### **Stack Principal (Backend Core)**
-<div border="1">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="30" height="30"/>
+<div display="inline-block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="hibernate" width="30" height="30"/>
 </div>
 
 ### **Estudando & Escalando**
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/>
+<div display="inline-block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/>
 </div>
 
 ---
@@ -29,7 +29,7 @@ Sou um profissional em transição da Administração Pública para Sistemas de 
 
 Atualmente, transformo conceitos complexos de gestão e suporte social em soluções técnicas robustas:
 
-* **📅 Sistema de Gestão de Férias:** Sistema baseado em **Microsserviços** voltado para a administração pública.
+* **📅 Sistema de Gestão de Férias:** Sistema baseado em **Microsserviços** voltado para a administração pública, automatizando fluxos e notificações.
 * **☕ TeaCup:** Plataforma de suporte para pais de crianças autistas, centralizando informações especializadas e rede de apoio.
 
 ---
@@ -47,5 +47,9 @@ Busco dominar a arte de projetar sistemas que sobrevivam ao tempo. Meus estudos 
 
 Estou sempre aberto a propostas de projetos e conexões sobre tecnologia e gestão.
 
-<a href="www.linkedin.com/in/jairo-rafael-carvalho-lessa-8623b7186" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="jairo.rafaelcarvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jairo-rafael-carvalho-lessa-8623b7186" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:jairo.rafaelcarvalho@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
