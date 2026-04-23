@@ -1,6 +1,6 @@
 # 🚀 Olá! Sou Jairo Lessa 👋
 
-### **Administrador Público & Aspirante a Engenheiro de Software**
+### **Engenheiro de Software**
 
 Sou um profissional em transição da Administração Pública para Sistemas de Informação, focado em construir o "coração" das aplicações. Meu objetivo não é apenas escrever código, mas projetar sistemas **estáveis, resilientes e escaláveis**, aplicando os pilares da Engenharia de Software e System Design.
 
